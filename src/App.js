@@ -1,4 +1,4 @@
-import Home from "./components/Home";
+import Home from "./Card2/Home";
 
 function App() {
   return (
